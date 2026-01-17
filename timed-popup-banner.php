@@ -3,7 +3,7 @@
  * Plugin Name: Timed Popup & Top Banner
  * Plugin URI: https://github.com/vadikonline1/wp-timed-popup-banner/
  * Description: A plugin that displays a popup after X seconds and a top banner
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Steel..xD
  * License: GPL v2 or later
  * Text Domain: timed-popup-banner
