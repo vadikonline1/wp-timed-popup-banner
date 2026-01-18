@@ -26,7 +26,7 @@ require_once TPB_PLUGIN_PATH . 'includes/class-popup-handler.php';
 require_once TPB_PLUGIN_PATH . 'includes/class-banner-handler.php';
 
 add_filter('plugin_action_links_' . plugin_basename(__FILE__), function($actions) {
-    $settings_link = '<a href="' . admin_url('options-general.php?page=popup-banner-settings') . '">⚙️ Settings</a>';
+    $settings_link = '<a href="' . admin_url('admin.php?page=scfs-oop') . '">⚙️ Settings</a>';
     array_unshift($actions, $settings_link);
     
     // Numele plugin-ului necesar
